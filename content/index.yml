@@ -1,8 +1,8 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
+  title: "Miguel - Frontend Engineer"
   description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+title: "Hey, I'm Miguel - Frontend Engineer"
+description: "Experienced and passionate front-end developer with over 6 years of experience specializing in JavaScript and modern frameworks like React, Vue, and Svelte. I thrive on crafting beautiful and user-friendly interfaces that deliver exceptional user experiences."
 hero:
   links:
     - label: "Use this template"
@@ -35,27 +35,30 @@ about:
 experience:
   title: Work Experience
   items:
-    - position: "Brand Designer at"
-      date: "2023 - Present"
+    - position: "Senior Front-end Engineer at"
+      date: "2025 - Present"
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
-        color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
+        name: Convincely
+        url: "https://www.convincely.com/"
+        color: "#4c16c9"
+    - position: "Senior Front-end Engineer at"
+      date: "2024 - 2025"
       company:
-        name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
+        name: Deputy
+        url: "https://www.deputy.com/"
         color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+    - position: "Front-end Engineer at"
+      date: "2022 - 2024"
       company:
-        name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
-        color: "#5E6AD2"
+        name: Linagora VietNam
+        url: "https://linagora.com/vi"
+        color: "#C42D43"
+    - position: "Front-end Web Developer at"
+      date: "2021 - 2022"
+      company:
+        name: Techvify VietNam
+        url: "https://techvify.com/"
+        color: "#2B88FF"
 testimonials:
   - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
     author:
